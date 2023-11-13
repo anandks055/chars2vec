@@ -11,7 +11,8 @@ words = ['Natural', 'Language', 'Understanding',
          'Naturael', 'Longuge', 'Updderctundjing',
          'Motural', 'Lamnguoge', 'Understaating',
          'Naturrow', 'Laguage', 'Unddertandink',
-         'Nattural', 'Languagge', 'Umderstoneding']
+         'Nattural', 'Languagge', 'Umderstoneding',
+         'ban','han','ing','ery']
 
 # Create word embeddings
 word_embeddings = c2v_model.vectorize_words(words)
